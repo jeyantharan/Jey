@@ -19,7 +19,7 @@ const Header = () => {
 Hi !          </h1>
           <div className='flex items-center justify-center text-white shadow-lg bg-blue-800 dark:bg-[#224cff10] dark:text-[#224cff] rounded-full'>
             <p className='text-3xl 2xl:text-5xl font-bold px-5 py-2 pb-2 text-center'>
-              Guys
+              Guys,
             </p>
           </div>
         </div>
