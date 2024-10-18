@@ -34,7 +34,7 @@ Hi !          </h1>
         </p>
 
         <div className='mt-10 flex gap-10'>
-          <a href="https://drive.google.com/file/d/100rj2jNL7G9EOWgAy3NDPUZXJG4F9_y2/view?usp=sharing" target="blank">
+          <a href="https://drive.google.com/file/d/1Iq3NweZ-sLPs5JDEPXZ1QQTAYys6dZN3/view?usp=sharing" target="blank">
           <button className='bg-orange-700 text-lg text-white font-semibold rounded-md py-3 px-5'>
             Download CV
           </button>
