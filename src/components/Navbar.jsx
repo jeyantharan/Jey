@@ -26,13 +26,13 @@ const Navbar = ({ darkMode, isOpen, toggleMenu, toggleTheme }) => {
               <a href='#projects'>Projects</a>
             </li>
           </ul>
-          <button onClick={toggleTheme} className='p-2'>
+{/*           <button onClick={toggleTheme} className='p-2'>
             {darkMode ? (
               <FiSun size={24} color={"white"} />
             ) : (
               <MdOutlineNightlight size={24} color={"gray"} />
             )}
-          </button>
+          </button> */}
 
           <div className='md:hidden'>
             <button
